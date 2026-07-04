@@ -44,7 +44,7 @@ Una universidad administra profesores y cursos.
 
 1. Un profesor puede impartir varios cursos
 2. Un curso solamente puede ser impartido por un profesor
-3. Puede existit un profesor que actualmente no imparta cursos
+3. Puede existir un profesor que actualmente no imparta cursos
 4. Todo curso debe ser asignado a un profesor
 
 Se debe de realizar lo siguiente:
@@ -113,3 +113,20 @@ Una empresa se encarga de realizar ventas de productos
  7. El detalle del pedido no existe sin pedido
  8. El detalle del pedido no existe sin producto
  9. El detalle almacena cantidad y precio de venta
+
+ ### Resultado Modelo E-R
+
+ ![Empresa](../img/E-R/Ejercicio4.jpg)
+
+ ## Ejercicio 5
+
+ 1. La empresa está organizada en departamentos. Cada departamento tiene un nombre único, un número único y un empleado específico que lo administra. Registramos la fecha de inicio en la que ese empleado comenzó a administrar el departamento. Un departamento puede tener varias ubicaciones.
+
+2. Un departamento controla varios proyectos, cada uno de los cuales tiene un nombre único, un número único y una sola ubicación.
+
+3. Almacenamos el nombre, el número de Seguro Social, la dirección, el salario, el sexo (género) y la fecha de nacimiento de cada empleado. Un empleado está asignado a un departamento, pero puede trabajar en varios proyectos, que no necesariamente están controlados por el mismo departamento. Registramos la cantidad actual de horas por semana que un empleado trabaja en cada proyecto. También registramos al supervisor directo de cada empleado (que es otro empleado).
+
+4. Queremos registrar a los dependientes de cada empleado para fines de seguro. Registramos el nombre, el sexo, la fecha de nacimiento y la relación de cada dependiente con el empleado
+
+### Resultado Modelo E-R
+  ![Company](../img/E-R/Ejercicio5.jpg)

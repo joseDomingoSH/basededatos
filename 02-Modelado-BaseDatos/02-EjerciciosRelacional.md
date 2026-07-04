@@ -1,40 +1,55 @@
-# Ejercicios del Modelo E-R
+# Ejercicios del Modelo Relacional
 
-1. Ejercicio 1. Hospital
+## Ejercicio 1
 
-## Modelo E-R
+### Modelo E-R
 ![Hospital](../img/E-R/Ejercicio1.jpg)
 
-## Modelo Relacional
+### Modelo Relacional
 ![Hospital](../img/Relacional/Ejer1.jpg)
 
-2. Ejercicio 2
+## Ejercicio 2
 
-## Modelo E-R
-![Hospital](../img/E-R/Ejercicio1.jpg)
+### Modelo E-R
+![Hospital](../img/E-R/Ejercicio2.jpg)
 
-## Modelo Relacional
-![Hospital](../img/Relacional/Ejer1.jpg)
+### Modelo Relacional
+![Hospital](../img/Relacional/Ejer2.jpg)
 
-3. Ejercicio 3
+## Ejercicio 3
 
-## Modelo E-R
-![Hospital](../img/E-R/Ejercicio1.jpg)
+### Modelo E-R
+![Hospital](../img/E-R/Ejercicio3.jpg)
 
-## Modelo Relacional
-![Hospital](../img/Relacional/Ejer1.jpg)
+### Modelo Relacional
+![Hospital](../img/Relacional/Ejer3.jpg)
 
-4. Ejercicio 4
+## Ejercicio 4
 
-## Modelo E-R
-![Hospital](../img/E-R/Ejercicio1.jpg)
+### Modelo E-R
+![Hospital](../img/E-R/Ejercicio4.jpg)
 
-## Modelo Relacional
-![Hospital](../img/Relacional/Ejer1.jpg)
+### Modelo Relacional
+![Hospital](../img/Relacional/Ejer4.jpg)
 
-5. Ejercicio 5
+## Ejercicio 5
+### Modelo E-R
+![Company](../img/E-R/Ejercicio5.jpg)
 
-6. Ejercicio 6
+### Modelo Relacional
+![Company](../img/Relacional/Ejer5.jpg)
 
-7. Ejercicio 7
+## Ejercicio 6
+### Modelo E-R
+![Company2](../img/E-R/Ejercicio5.jpg)
+
+### Modelo Relacional
+![Company2](../img/Relacional/Ejer6.jpg)
+
+## Ejercicio 7
+### Modelo E-R
+![Hospital](../img/E-R/Ejercicio7.jpg)
+
+### Modelo Relacional
+![Hospital](../img/Relacional/Ejer7.jpg)
 

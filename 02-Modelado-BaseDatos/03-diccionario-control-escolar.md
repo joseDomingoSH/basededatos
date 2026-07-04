@@ -7,7 +7,7 @@
 |Proyecto|Control Escolar|
 |Version|1.0|
 |Fecha|Junio 2026|
-|Elaboro|Jose Doimingo Sarabia Hernandez|
+|Elaboro|Jose Domingo Sarabia Hernandez|
 |SGBD|SQLServer|
 
 2. Descripcion del Sistema de Base de Datos
@@ -79,7 +79,7 @@ Almacena Información de los estudiantes
 
 --
 
-6. MAtriz de Claves Foraneas
+6. Mátriz de Claves Foraneas
 
 | Tabla | Campo FK | Referencia |
 | :--- | :--- | :--- |
@@ -117,4 +117,4 @@ Almacena Información de los estudiantes
 | RN-05 | UN grupo solo puede tener un profesor asignado |
 | RN-06 | La calificación debe estar entre 0.0 y 10.0|
 
-9. DIagrama Relacional
+9. Diagrama Relacional
