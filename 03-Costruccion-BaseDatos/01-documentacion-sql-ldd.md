@@ -98,3 +98,14 @@ La razón es que funciona de forma consistente en **SQLServer, Mysql** y especia
 - uq_cliente_correro_electronico
 - ck_producto_precio
 - df_cliente_activo
+
+## Alter Table
+
+
+Permite modificar una tabla existente
+
+- Agregar columnas 
+- Eliminar columnas
+- Modificar columnas
+- Agregar restricciones
+- Eliminar restricciones
